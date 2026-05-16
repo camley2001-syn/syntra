@@ -23,4 +23,8 @@ export const PRODUCT_IMAGES = {
     src: "/material-ceramic.jpg",
     alt: "Ceramic composite acoustic chamber lining of SYNTRA",
   },
+  charging: {
+    src: "/charging.png",
+    alt: "SYNTRA matte black wireless charging case with status LED",
+  },
 } as const;
